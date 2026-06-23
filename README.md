@@ -87,4 +87,4 @@ This project demonstrates:
 
 ## 👨‍💻 Author
 
-Ramandeep Kaur
+*Ramandeep Kaur*
