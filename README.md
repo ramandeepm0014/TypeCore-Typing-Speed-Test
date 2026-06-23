@@ -88,7 +88,3 @@ This project demonstrates:
 ## 👨‍💻 Author
 
 Ramandeep Kaur
-
----
-
-Built with Python and Streamlit.
