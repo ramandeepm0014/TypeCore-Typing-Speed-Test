@@ -30,7 +30,6 @@ TypeCore-Typing-Test/
 
 ├── README.md
 
-└── .gitignore
 
 ## ⚙️ Installation
 
