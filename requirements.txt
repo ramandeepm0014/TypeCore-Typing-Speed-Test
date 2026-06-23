@@ -1,0 +1,6 @@
+streamlit==1.56.0
+pandas==3.0.2
+altair==6.0.0
+
+# Run the project
+python -m streamlit run app.py
